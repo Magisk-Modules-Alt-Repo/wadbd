@@ -95,4 +95,4 @@ wadbd --clear-keys            - Revokes all authorized Keys
     You should have received a copy of the GNU General Public License
     along with this script.  If not, see <http://www.gnu.org/licenses/>.
     
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue?style=flat-square&logo=telegram)](https://t.me/ximistuffschat)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram)](https://t.me/rhythmcache)
