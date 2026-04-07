@@ -1,6 +1,6 @@
 {
-    "versionCode": 10,
-    "version": "4.7",
-    "zipUrl": "https://github.com/Magisk-Modules-Alt-Repo/wadbd/releases/download/V4.7/wadbd-4.7-10.zip",
+    "versionCode": 11,
+    "version": "4.8",
+    "zipUrl": "https://github.com/Magisk-Modules-Alt-Repo/wadbd/releases/download/V4.7/wadbd-4.8-11.zip",
     "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wadbd/main/changelog.md"
 }
