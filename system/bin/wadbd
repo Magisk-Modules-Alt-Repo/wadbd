@@ -2,7 +2,6 @@
 
 # This file is part of WADBD
 # https://github.com/rhythmcache
-# https://rhythmcache.t.me
 
 GREEN='\033[0;32m'
 PINK='\033[1;35m'

@@ -1,6 +1,5 @@
 # This file is part of WADBD
 # https://github.com/rhythmcache
-# https://rhythmcache.t.me
 ui_print "- Checking USB debugging status..."
 if getprop persist.sys.usb.config | grep -q "adb"; then
     ui_print "- USB debugging is enabled."

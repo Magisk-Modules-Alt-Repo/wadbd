@@ -2,6 +2,6 @@ id=wadbd
 name=WirelessADBD-Controller
 version=4.3
 versionCode=6
-author=rhythmcache.t.me
+author=rhythmcache
 description=A Wireless ADB Controller
 updateJson=https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wadbd/main/updateJson
